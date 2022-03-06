@@ -1,4 +1,4 @@
-### Hi there friends 👋
+### Hello there my beautiful people, I'm Jeremy. Have a glorious day! 👋
 
 <!--
 **jeremydthomas/jeremydthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
