@@ -5,6 +5,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1063](https://github.com/EddieHubCommunity/LinkFree/pull/1063) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#886](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/886) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+3. ❗️ Opened issue [#3471](https://github.com/EddieHubCommunity/support/issues/3471) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 <!--
 **jeremydthomas/jeremydthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
