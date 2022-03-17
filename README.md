@@ -1,5 +1,5 @@
 #  My name is  *Jeremy*.
-## Hello there my beautiful people. I hope you are having a glorious day! 👋
+## Hello there! I hope you are having a glorious day! 👋
 
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremydthomas&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremydthomas&layout=compact)](https://github.com/jeremydthomas/github-readme-stats)
 
