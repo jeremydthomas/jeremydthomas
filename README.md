@@ -1,6 +1,10 @@
 #  My name is  *Jeremy*.
 ## Hello there! I hope you are having a wondeful day! 👋
 
+- 🌱 I’m currently learning ... React.
+- 👯 I’m looking to collaborate on ...anyones open source project.
+- ⚡ Fun fact: ...I love the outdoors.
+
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremydthomas&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremydthomas&layout=compact)](https://github.com/jeremydthomas/github-readme-stats)
 
 ### :zap: Recent Activity
@@ -9,9 +13,7 @@
 2. 💪 Opened PR [#1063](https://github.com/EddieHubCommunity/LinkFree/pull/1063) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 3. 💪 Opened PR [#886](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/886) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
-- 🌱 I’m currently learning ... React.
-- 👯 I’m looking to collaborate on ...anyones open source project.
-- ⚡ Fun fact: ...I love the outdoors.
+
 <!--
 **jeremydthomas/jeremydthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
