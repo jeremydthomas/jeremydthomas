@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2547](https://github.com/ToolJet/ToolJet/issues/2547) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-2. 💪 Opened PR [#1063](https://github.com/EddieHubCommunity/LinkFree/pull/1063) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#886](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/886) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#2697](https://github.com/ToolJet/ToolJet/issues/2697) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+2. 🗣 Commented on [#2697](https://github.com/ToolJet/ToolJet/issues/2697) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+3. 🗣 Commented on [#2547](https://github.com/ToolJet/ToolJet/issues/2547) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 <!--END_SECTION:activity-->
 
 <!--
