@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2697](https://github.com/ToolJet/ToolJet/issues/2697) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+1. 🗣 Commented on [#173](https://github.com/mikhael28/paretOS/issues/173) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
 2. 🗣 Commented on [#2697](https://github.com/ToolJet/ToolJet/issues/2697) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-3. 🗣 Commented on [#2547](https://github.com/ToolJet/ToolJet/issues/2547) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+3. 🗣 Commented on [#2697](https://github.com/ToolJet/ToolJet/issues/2697) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 <!--END_SECTION:activity-->
 
 <!--
