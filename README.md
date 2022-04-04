@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/jeremydthomas/tesla-clone/pull/4) in [jeremydthomas/tesla-clone](https://github.com/jeremydthomas/tesla-clone)
-2. 🎉 Merged PR [#3](https://github.com/jeremydthomas/tesla-clone/pull/3) in [jeremydthomas/tesla-clone](https://github.com/jeremydthomas/tesla-clone)
-3. 🎉 Merged PR [#2](https://github.com/jeremydthomas/tesla-clone/pull/2) in [jeremydthomas/tesla-clone](https://github.com/jeremydthomas/tesla-clone)
+1. 🗣 Commented on [#596](https://github.com/Greenstand/treetracker-admin-client/issues/596) in [Greenstand/treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client)
+2. 🎉 Merged PR [#4](https://github.com/jeremydthomas/tesla-clone/pull/4) in [jeremydthomas/tesla-clone](https://github.com/jeremydthomas/tesla-clone)
+3. 🎉 Merged PR [#3](https://github.com/jeremydthomas/tesla-clone/pull/3) in [jeremydthomas/tesla-clone](https://github.com/jeremydthomas/tesla-clone)
 <!--END_SECTION:activity-->
 
 <!--
