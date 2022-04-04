@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/mikhael28/paretOS/issues/173) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
-2. 🗣 Commented on [#2697](https://github.com/ToolJet/ToolJet/issues/2697) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-3. 🗣 Commented on [#2697](https://github.com/ToolJet/ToolJet/issues/2697) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+1. 🎉 Merged PR [#4](https://github.com/jeremydthomas/tesla-clone/pull/4) in [jeremydthomas/tesla-clone](https://github.com/jeremydthomas/tesla-clone)
+2. 🎉 Merged PR [#3](https://github.com/jeremydthomas/tesla-clone/pull/3) in [jeremydthomas/tesla-clone](https://github.com/jeremydthomas/tesla-clone)
+3. 🎉 Merged PR [#2](https://github.com/jeremydthomas/tesla-clone/pull/2) in [jeremydthomas/tesla-clone](https://github.com/jeremydthomas/tesla-clone)
 <!--END_SECTION:activity-->
 
 <!--
