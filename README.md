@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...anyones open source project.
 - ⚡ Fun fact: ...I love the outdoors.
 
-![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremydthomas&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremydthomas&layout=compact)](https://github.com/jeremydthomas/github-readme-stats)
+<!-- ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremydthomas&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremydthomas&layout=compact)](https://github.com/jeremydthomas/github-readme-stats) -->
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
