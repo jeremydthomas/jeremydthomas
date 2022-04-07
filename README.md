@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ... React.
 - 👯 I’m looking to collaborate on ...anyones open source project.
-- ⚡ Fun fact: ...I love the outdoors.
+- ⚡ Fun fact: ... Jesus loves you.
 
 <!-- ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremydthomas&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremydthomas&layout=compact)](https://github.com/jeremydthomas/github-readme-stats) -->
 
