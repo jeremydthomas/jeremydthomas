@@ -9,8 +9,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#274](https://github.com/mikhael28/paretOS/issues/274) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
-2. 🗣 Commented on [#699](https://github.com/Greenstand/treetracker-web-map-client/issues/699) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+1. 🗣 Commented on [#298](https://github.com/mikhael28/paretOS/issues/298) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
+2. 🗣 Commented on [#274](https://github.com/mikhael28/paretOS/issues/274) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
 3. 🗣 Commented on [#699](https://github.com/Greenstand/treetracker-web-map-client/issues/699) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
 <!--END_SECTION:activity-->
 
