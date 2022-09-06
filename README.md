@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/Greenstand/treetracker-query-api/issues/173) in [Greenstand/treetracker-query-api](https://github.com/Greenstand/treetracker-query-api)
-2. 🗣 Commented on [#303](https://github.com/mikhael28/paretOS/issues/303) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
-3. 🗣 Commented on [#304](https://github.com/mikhael28/paretOS/issues/304) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
+1. ❗️ Opened issue [#306](https://github.com/mikhael28/paretOS/issues/306) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
+2. ❗️ Opened issue [#305](https://github.com/mikhael28/paretOS/issues/305) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
+3. 🗣 Commented on [#173](https://github.com/Greenstand/treetracker-query-api/issues/173) in [Greenstand/treetracker-query-api](https://github.com/Greenstand/treetracker-query-api)
 <!--END_SECTION:activity-->
 
 <!--
