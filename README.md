@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#334](https://github.com/mikhael28/paretOS/issues/334) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
-2. ❗️ Opened issue [#333](https://github.com/mikhael28/paretOS/issues/333) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
-3. ❗️ Opened issue [#330](https://github.com/mikhael28/paretOS/issues/330) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
+1. 🗣 Commented on [#337](https://github.com/mikhael28/paretOS/issues/337) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
+2. ❗️ Opened issue [#334](https://github.com/mikhael28/paretOS/issues/334) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
+3. ❗️ Opened issue [#333](https://github.com/mikhael28/paretOS/issues/333) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
 <!--END_SECTION:activity-->
 
 <!--
