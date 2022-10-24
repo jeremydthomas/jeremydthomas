@@ -10,8 +10,8 @@
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#65](https://github.com/arthurdent75/SimpleScheduler/issues/65) in [arthurdent75/SimpleScheduler](https://github.com/arthurdent75/SimpleScheduler)
-2. 💪 Opened PR [#352](https://github.com/mikhael28/paretOS/pull/352) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
-3. 💪 Opened PR [#1140](https://github.com/Greenstand/treetracker-web-map-client/pull/1140) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+2. 🗣 Commented on [#65](https://github.com/arthurdent75/SimpleScheduler/issues/65) in [arthurdent75/SimpleScheduler](https://github.com/arthurdent75/SimpleScheduler)
+3. 💪 Opened PR [#352](https://github.com/mikhael28/paretOS/pull/352) in [mikhael28/paretOS](https://github.com/mikhael28/paretOS)
 <!--END_SECTION:activity-->
 
 <!--
