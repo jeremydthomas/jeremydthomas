@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1332](https://github.com/Greenstand/treetracker-web-map-client/issues/1332) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
-2. 🗣 Commented on [#815](https://github.com/Greenstand/treetracker-web-map-client/issues/815) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
-3. 🗣 Commented on [#1325](https://github.com/Greenstand/treetracker-web-map-client/issues/1325) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+1. 🗣 Commented on [#1074](https://github.com/Greenstand/treetracker-web-map-client/issues/1074) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+2. 🗣 Commented on [#1332](https://github.com/Greenstand/treetracker-web-map-client/issues/1332) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+3. 🗣 Commented on [#815](https://github.com/Greenstand/treetracker-web-map-client/issues/815) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
 <!--END_SECTION:activity-->
 
 <!--
