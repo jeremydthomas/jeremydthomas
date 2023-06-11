@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1598](https://github.com/Greenstand/treetracker-web-map-client/issues/1598) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+1. 🗣 Commented on [#3020](https://github.com/prettier/prettier-vscode/issues/3020) in [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)
 2. 🗣 Commented on [#1598](https://github.com/Greenstand/treetracker-web-map-client/issues/1598) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
-3. 🗣 Commented on [#1561](https://github.com/Greenstand/treetracker-web-map-client/issues/1561) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+3. 🗣 Commented on [#1598](https://github.com/Greenstand/treetracker-web-map-client/issues/1598) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
 <!--END_SECTION:activity-->
 
 <!--
