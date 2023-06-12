@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3020](https://github.com/prettier/prettier-vscode/issues/3020) in [prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)
-2. 🗣 Commented on [#1598](https://github.com/Greenstand/treetracker-web-map-client/issues/1598) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
-3. 🗣 Commented on [#1598](https://github.com/Greenstand/treetracker-web-map-client/issues/1598) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+1. 🔒 Closed issue [#108](https://github.com/cjmcassar/paperhandsLP/issues/108) in [cjmcassar/paperhandsLP](https://github.com/cjmcassar/paperhandsLP)
+2. 🔒 Closed issue [#107](https://github.com/cjmcassar/paperhandsLP/issues/107) in [cjmcassar/paperhandsLP](https://github.com/cjmcassar/paperhandsLP)
+3. 🔒 Closed issue [#109](https://github.com/cjmcassar/paperhandsLP/issues/109) in [cjmcassar/paperhandsLP](https://github.com/cjmcassar/paperhandsLP)
 <!--END_SECTION:activity-->
 
 <!--
