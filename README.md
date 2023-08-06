@@ -9,9 +9,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/GObaddie/ubuntu_chrome_remote_desktop/issues/5#issuecomment-1603111861) in [GObaddie/ubuntu_chrome_remote_desktop](https://github.com/GObaddie/ubuntu_chrome_remote_desktop)
-2. 🗣 Commented on [#5](https://github.com/GObaddie/ubuntu_chrome_remote_desktop/issues/5#issuecomment-1591606216) in [GObaddie/ubuntu_chrome_remote_desktop](https://github.com/GObaddie/ubuntu_chrome_remote_desktop)
-3. 🔒 Closed issue [#1581](https://github.com/Greenstand/treetracker-web-map-client/issues/1581) in [Greenstand/treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client)
+1. 🎉 Merged PR [#4](https://github.com/jeremydthomas/mern-shopping-yt-build/pull/4) in [jeremydthomas/mern-shopping-yt-build](https://github.com/jeremydthomas/mern-shopping-yt-build)
+2. 🎉 Merged PR [#3](https://github.com/jeremydthomas/mern-shopping-yt-build/pull/3) in [jeremydthomas/mern-shopping-yt-build](https://github.com/jeremydthomas/mern-shopping-yt-build)
+3. 🎉 Merged PR [#2](https://github.com/jeremydthomas/mern-shopping-yt-build/pull/2) in [jeremydthomas/mern-shopping-yt-build](https://github.com/jeremydthomas/mern-shopping-yt-build)
 <!--END_SECTION:activity-->
 
 <!--
