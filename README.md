@@ -1,7 +1,7 @@
 #  My name is  *Jeremy*.
 ## Hello there! I hope you are having a wondeful day! 👋
 
-- 🌱 I’m currently learning ... Express.
+- 🌱 I’m currently learning ... Rust
 - 👯 I’m looking to collaborate on ...anyones open source project.
 - ⚡ Fun fact: ... Jesus loves you.
 
